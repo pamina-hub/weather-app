@@ -1,0 +1,87 @@
+.outside {
+  margin: 10px;
+  padding: 15px;
+  border-radius: 15px;
+  border: 1px solid #efe4fd;
+  background-color: #fef5d7;
+}
+.citySearch {
+  padding: 0px 0px 10px;
+}
+.topButton {
+  color: #a863b9;
+  font-size: 15px;
+  background-color: #efe4fd;
+  margin: 0px 0px 10px;
+  width: 100%;
+}
+.topButton:hover {
+  color: #efe4fd;
+  background-color: #a863b9;
+}
+.main,
+.side {
+  margin-bottom: 20px;
+  background-color: #efe4fd;
+  color: #885196;
+  padding: 0px;
+}
+.dateTime {
+  color: #a863b9;
+  font-size: 15px;
+  background-color: #efe4fd;
+  float: right;
+}
+.weatherIcon {
+  display: block;
+  margin: 0 auto;
+  font-size: 40px;
+  line-height: 50px;
+  color: #dbbaf6;
+  font-size: 120px;
+  text-align: center;
+  vertical-align: bottom;
+  padding: 20px 0px;
+}
+.celsius {
+  font-size: 38px;
+}
+.units {
+  text-decoration: none;
+  color: #885196;
+}
+.units:hover {
+  color: #885196;
+  background-color: #fef5d7;
+  border-radius: 3px;
+}
+.weatherData {
+  font-size: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+.cityList {
+  padding: 15px 10px;
+  background-color: #efe4fd;
+  color: #885196;
+}
+.temp {
+  float: right;
+}
+
+.weekdaysForecast {
+  color: #885196;
+  font-size: 20px;
+}
+.bottom {
+  background-color: #efe4fd;
+  display: block;
+  margin: 0 auto;
+  width: 95%;
+}
+.forecast {
+  color: #dbbaf6;
+  background-color: #efe4fd;
+  font-size: 30px;
+  padding: 0px;
+}
